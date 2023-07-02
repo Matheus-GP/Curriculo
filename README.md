@@ -1,4 +1,4 @@
 # Curriculo mat
 
-testando no hub agr
-comando git pull
+*testando no hub agr
+*comando git pull
